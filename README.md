@@ -39,9 +39,9 @@ To use the Spotify Web API and Spotipy, the environment and access tokens must b
 4. Now, you are connected to the Spotify API and capable to get your playlists ID, song IDs and use them to extract the features.
 
 ## Project Directory
-[TaylorSwift_CompleteData.csv](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/TaylorSwift_CompleteData.csv) is the processed and cleaned data set 
-[LICENSE.md](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/LICENSE) is the license for this project 
-[Data_ETL_Analysis.ipynb](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/Data_ETL_Analysis.ipynb) is a documentation of all extraction, processing, and analysis performed in this project
+- [TaylorSwift_CompleteData.csv](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/TaylorSwift_CompleteData.csv) is the processed and cleaned data set 
+- [LICENSE.md](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/LICENSE) is the license for this project 
+- [Data_ETL_Analysis.ipynb](https://github.com/sanjnasanand/Assignment_7_Data_Curation/blob/41c76fbab5ad68bb037f2f3cdf202e622be97bb6/Data_ETL_Analysis.ipynb) is a documentation of all extraction, processing, and analysis performed in this project
 
 
 ## Data 
